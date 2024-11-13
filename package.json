@@ -1,19 +1,7 @@
 {
-  "name": "uts",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^22.9.0",
-    "typescript": "^5.6.3"
-  },
   "dependencies": {
-    "undici-types": "^6.19.8"
-  },
-  "description": ""
+    "@types/express": "^5.0.0",
+    "express": "^4.21.1",
+    "typescript": "^5.6.3"
+  }
 }
